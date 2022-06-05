@@ -1,7 +1,6 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
 import './App.css';
-import Navbar from "./components/navbar/Navbar";
 import MyButton from "./components/button/MyButton";
 
 function App() {
